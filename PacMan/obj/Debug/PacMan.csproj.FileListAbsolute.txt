@@ -1,0 +1,31 @@
+C:\Users\Тимофей\source\repos\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\Тимофей\source\repos\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Тимофей\source\repos\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Тимофей\source\repos\PacMan\PacMan\obj\Debug\PacMan.csprojAssemblyReference.cache
+C:\Users\Тимофей\source\repos\PacMan\PacMan\obj\Debug\PacMan.Form1.resources
+C:\Users\Тимофей\source\repos\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+C:\Users\Тимофей\source\repos\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.cache
+C:\Users\Тимофей\source\repos\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\source\repos\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\Тимофей\source\repos\PacMan\PacMan\obj\Debug\PacMan.pdb
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\bin\Debug\PacMan.exe.config
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\bin\Debug\PacMan.exe
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\bin\Debug\PacMan.pdb
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\obj\Debug\PacMan.Form1.resources
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.cache
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\obj\Debug\PacMan.exe
+D:\Users\2-41\Горохов_ТВ\PacMan\PacMan\obj\Debug\PacMan.pdb
+G:\2 курс проекты\PacMan\PacMan\bin\Debug\PacMan.exe.config
+G:\2 курс проекты\PacMan\PacMan\bin\Debug\PacMan.exe
+G:\2 курс проекты\PacMan\PacMan\bin\Debug\PacMan.pdb
+G:\2 курс проекты\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+G:\2 курс проекты\PacMan\PacMan\obj\Debug\PacMan.csproj.SuggestedBindingRedirects.cache
+G:\2 курс проекты\PacMan\PacMan\obj\Debug\PacMan.Form1.resources
+G:\2 курс проекты\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+G:\2 курс проекты\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.cache
+G:\2 курс проекты\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+G:\2 курс проекты\PacMan\PacMan\obj\Debug\PacMan.exe
+G:\2 курс проекты\PacMan\PacMan\obj\Debug\PacMan.pdb

@@ -1,0 +1,6 @@
+Player 0 0 32 32
+Blinky 32 0 32 32
+Clyde 64 0 32 32
+Inky 96 0 32 32
+Pinky 64 32 32 32
+Cherry 0 32 32 32
